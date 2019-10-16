@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462113252 source:c:\users\parvathy\desktop\c programs\if_ex\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\bin\Release\ticTacToe.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\bin\Release\ticTacToe.exe
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\bin\Release\ticTacToe.pdb
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\obj\Release\ticTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\obj\Release\ticTacToe.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\obj\Release\ticTacToe.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\obj\Release\ticTacToe.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\obj\Release\ticTacToe.exe
+C:\Users\Roshan\Desktop\AllGUIs\TicTacToe Assets\ticTacToe\ticTacToe\obj\Release\ticTacToe.pdb

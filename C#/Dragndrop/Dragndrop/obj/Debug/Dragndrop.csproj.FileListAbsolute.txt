@@ -1,0 +1,9 @@
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\bin\Debug\Dragndrop.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\bin\Debug\Dragndrop.exe
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\bin\Debug\Dragndrop.pdb
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\obj\Debug\Dragndrop.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\obj\Debug\Dragndrop.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\obj\Debug\Dragndrop.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\obj\Debug\Dragndrop.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\obj\Debug\Dragndrop.exe
+C:\Users\Roshan\Desktop\AllGUIs\Dragndrop\Dragndrop\obj\Debug\Dragndrop.pdb

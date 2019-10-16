@@ -1,0 +1,9 @@
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\bin\Debug\MultiBtnDrag.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\bin\Debug\MultiBtnDrag.exe
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\bin\Debug\MultiBtnDrag.pdb
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\obj\Debug\MultiBtnDrag.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\obj\Debug\MultiBtnDrag.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\obj\Debug\MultiBtnDrag.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\obj\Debug\MultiBtnDrag.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\obj\Debug\MultiBtnDrag.exe
+C:\Users\Roshan\Desktop\AllGUIs\MultiBtnDrag\MultiBtnDrag\obj\Debug\MultiBtnDrag.pdb

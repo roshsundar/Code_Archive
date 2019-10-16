@@ -1,0 +1,8 @@
+C:\Users\Roshan\Desktop\AllGUIs\Stopwatch Assets\Stopwatch\Stopwatch\bin\Release\Stopwatch.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\Stopwatch Assets\Stopwatch\Stopwatch\bin\Release\Stopwatch.exe
+C:\Users\Roshan\Desktop\AllGUIs\Stopwatch Assets\Stopwatch\Stopwatch\bin\Release\Stopwatch.pdb
+C:\Users\Roshan\Desktop\AllGUIs\Stopwatch Assets\Stopwatch\Stopwatch\obj\Release\Stopwatch.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\Stopwatch Assets\Stopwatch\Stopwatch\obj\Release\Stopwatch.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\Stopwatch Assets\Stopwatch\Stopwatch\obj\Release\Stopwatch.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\Stopwatch Assets\Stopwatch\Stopwatch\obj\Release\Stopwatch.exe
+C:\Users\Roshan\Desktop\AllGUIs\Stopwatch Assets\Stopwatch\Stopwatch\obj\Release\Stopwatch.pdb

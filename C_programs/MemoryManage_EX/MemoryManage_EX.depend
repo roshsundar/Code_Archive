@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468877666 source:c:\users\parvathy\desktop\c programs\memorymanage_ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

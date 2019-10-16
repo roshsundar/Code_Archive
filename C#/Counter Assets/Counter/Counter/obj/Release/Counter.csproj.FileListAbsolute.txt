@@ -1,0 +1,8 @@
+C:\Users\Roshan\Desktop\AllGUIs\Counter Assets\Counter\Counter\bin\Release\Counter.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\Counter Assets\Counter\Counter\bin\Release\Counter.exe
+C:\Users\Roshan\Desktop\AllGUIs\Counter Assets\Counter\Counter\bin\Release\Counter.pdb
+C:\Users\Roshan\Desktop\AllGUIs\Counter Assets\Counter\Counter\obj\Release\Counter.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\Counter Assets\Counter\Counter\obj\Release\Counter.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\Counter Assets\Counter\Counter\obj\Release\Counter.exe
+C:\Users\Roshan\Desktop\AllGUIs\Counter Assets\Counter\Counter\obj\Release\Counter.pdb
+C:\Users\Roshan\Desktop\AllGUIs\Counter Assets\Counter\Counter\obj\Release\Counter.mainForm.resources

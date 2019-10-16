@@ -1,0 +1,18 @@
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\bin\Debug\DatabaseAcess.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\bin\Debug\DatabaseAcess.exe
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\bin\Debug\DatabaseAcess.pdb
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.exe
+C:\Users\Roshan\Desktop\AllGUIs\DatabaseAcess Assets\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.pdb
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\bin\Debug\DatabaseAcess.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.exe
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.pdb
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\bin\Debug\DatabaseAcess.exe
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\bin\Debug\DatabaseAcess.pdb
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\DatabaseAcess\DatabaseAcess\obj\Debug\DatabaseAcess.csproj.GenerateResource.Cache

@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 042854dbcc8897b40811197057638dba
+timeCreated: 1507673332
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Set_09
+    100004: Set_09_Part00
+    100006: Set_09_Part01
+    100008: Set_09_Part03
+    100010: Set_09_Part04
+    100012: Set_09_Part05
+    100014: Set_09_Part06
+    100016: Set_09_Part07
+    100018: Set_09_Part08
+    100020: Set_09_Part09
+    100022: Set_09_Part10
+    100024: Set_09_Part11
+    100026: Set_09_Part12
+    100028: Set_09_Part13
+    100030: Set_09_Part15
+    100032: Set_09_Part16
+    100034: Set_09_Part17
+    100036: Set_09_Part18
+    100038: Set_09_Part19
+    100040: Set_09_Part20
+    100042: Set_09_Part21
+    100044: Set_09_Part22
+    100046: Set_09_Part23
+    100048: Set_09_Part24
+    100050: Set_09_Part25
+    100052: Set_09_Part25 1
+    100054: Set_09_Part26
+    100056: Set_09_Part28
+    100058: Set_09_Part29
+    100060: Set_09_Part30
+    400000: //RootNode
+    400002: Set_09
+    400004: Set_09_Part00
+    400006: Set_09_Part01
+    400008: Set_09_Part03
+    400010: Set_09_Part04
+    400012: Set_09_Part05
+    400014: Set_09_Part06
+    400016: Set_09_Part07
+    400018: Set_09_Part08
+    400020: Set_09_Part09
+    400022: Set_09_Part10
+    400024: Set_09_Part11
+    400026: Set_09_Part12
+    400028: Set_09_Part13
+    400030: Set_09_Part15
+    400032: Set_09_Part16
+    400034: Set_09_Part17
+    400036: Set_09_Part18
+    400038: Set_09_Part19
+    400040: Set_09_Part20
+    400042: Set_09_Part21
+    400044: Set_09_Part22
+    400046: Set_09_Part23
+    400048: Set_09_Part24
+    400050: Set_09_Part25
+    400052: Set_09_Part25 1
+    400054: Set_09_Part26
+    400056: Set_09_Part28
+    400058: Set_09_Part29
+    400060: Set_09_Part30
+    2300000: Set_09
+    2300002: Set_09_Part00
+    2300004: Set_09_Part01
+    2300006: Set_09_Part03
+    2300008: Set_09_Part04
+    2300010: Set_09_Part05
+    2300012: Set_09_Part06
+    2300014: Set_09_Part07
+    2300016: Set_09_Part08
+    2300018: Set_09_Part09
+    2300020: Set_09_Part10
+    2300022: Set_09_Part11
+    2300024: Set_09_Part12
+    2300026: Set_09_Part13
+    2300028: Set_09_Part15
+    2300030: Set_09_Part16
+    2300032: Set_09_Part17
+    2300034: Set_09_Part18
+    2300036: Set_09_Part19
+    2300038: Set_09_Part20
+    2300040: Set_09_Part21
+    2300042: Set_09_Part22
+    2300044: Set_09_Part23
+    2300046: Set_09_Part24
+    2300048: Set_09_Part25
+    2300050: Set_09_Part25 1
+    2300052: Set_09_Part26
+    2300054: Set_09_Part28
+    2300056: Set_09_Part29
+    2300058: Set_09_Part30
+    3300000: Set_09
+    3300002: Set_09_Part00
+    3300004: Set_09_Part01
+    3300006: Set_09_Part03
+    3300008: Set_09_Part04
+    3300010: Set_09_Part05
+    3300012: Set_09_Part06
+    3300014: Set_09_Part07
+    3300016: Set_09_Part08
+    3300018: Set_09_Part09
+    3300020: Set_09_Part10
+    3300022: Set_09_Part11
+    3300024: Set_09_Part12
+    3300026: Set_09_Part13
+    3300028: Set_09_Part15
+    3300030: Set_09_Part16
+    3300032: Set_09_Part17
+    3300034: Set_09_Part18
+    3300036: Set_09_Part19
+    3300038: Set_09_Part20
+    3300040: Set_09_Part21
+    3300042: Set_09_Part22
+    3300044: Set_09_Part23
+    3300046: Set_09_Part24
+    3300048: Set_09_Part25
+    3300050: Set_09_Part25 1
+    3300052: Set_09_Part26
+    3300054: Set_09_Part28
+    3300056: Set_09_Part29
+    3300058: Set_09_Part30
+    4300000: Set_09
+    4300002: Set_09_Part15
+    4300004: Set_09_Part16
+    4300006: Set_09_Part17
+    4300008: Set_09_Part18
+    4300010: Set_09_Part19
+    4300012: Set_09_Part20
+    4300014: Set_09_Part21
+    4300016: Set_09_Part22
+    4300018: Set_09_Part23
+    4300020: Set_09_Part10
+    4300022: Set_09_Part09
+    4300024: Set_09_Part29
+    4300026: Set_09_Part25
+    4300028: Set_09_Part26
+    4300030: Set_09_Part25
+    4300032: Set_09_Part30
+    4300034: Set_09_Part13
+    4300036: Set_09_Part12
+    4300038: Set_09_Part11
+    4300040: Set_09_Part08
+    4300042: Set_09_Part04
+    4300044: Set_09_Part07
+    4300046: Set_09_Part06
+    4300048: Set_09_Part05
+    4300050: Set_09_Part24
+    4300052: Set_09_Part03
+    4300054: Set_09_Part28
+    4300056: Set_09_Part01
+    4300058: Set_09_Part00
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

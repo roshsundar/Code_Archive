@@ -1,0 +1,13 @@
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\bin\Debug\remindMe.exe.config
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\bin\Debug\remindMe.exe
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\bin\Debug\remindMe.pdb
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\obj\Debug\remindMe.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\obj\Debug\remindMe.Properties.Resources.resources
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\obj\Debug\remindMe.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\obj\Debug\remindMe.exe
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\obj\Debug\remindMe.pdb
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\obj\Debug\remindMe.addForm.resources
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\obj\Debug\remindMe.mainForm.resources
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\bin\Debug\MySql.Data.dll
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\bin\Debug\MySql.Data.xml
+C:\Users\Roshan\Desktop\RemindMe Assets\remindMe\remindMe\obj\Debug\remindMe.editForm.resources

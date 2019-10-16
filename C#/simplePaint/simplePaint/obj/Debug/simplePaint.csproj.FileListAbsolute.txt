@@ -1,0 +1,9 @@
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\bin\Debug\simplePaint.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\bin\Debug\simplePaint.exe
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\bin\Debug\simplePaint.pdb
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\obj\Debug\simplePaint.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\obj\Debug\simplePaint.mainForm.resources
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\obj\Debug\simplePaint.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\obj\Debug\simplePaint.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\obj\Debug\simplePaint.exe
+C:\Users\Roshan\Desktop\AllGUIs\simplePaint\simplePaint\obj\Debug\simplePaint.pdb

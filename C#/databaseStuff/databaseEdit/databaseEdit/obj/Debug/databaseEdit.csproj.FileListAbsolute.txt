@@ -1,0 +1,9 @@
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\bin\Debug\databaseEdit.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\bin\Debug\databaseEdit.exe
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\bin\Debug\databaseEdit.pdb
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\obj\Debug\databaseEdit.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\obj\Debug\databaseEdit.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\obj\Debug\databaseEdit.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\obj\Debug\databaseEdit.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\obj\Debug\databaseEdit.exe
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseEdit\databaseEdit\obj\Debug\databaseEdit.pdb

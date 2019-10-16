@@ -1,0 +1,9 @@
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\bin\Debug\databaseSave.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\bin\Debug\databaseSave.exe
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\bin\Debug\databaseSave.pdb
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\obj\Debug\databaseSave.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\obj\Debug\databaseSave.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\obj\Debug\databaseSave.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\obj\Debug\databaseSave.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\obj\Debug\databaseSave.exe
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseSave\databaseSave\obj\Debug\databaseSave.pdb

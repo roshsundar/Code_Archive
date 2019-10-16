@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish Flocking.Plugins", "Fish Flocking.Plugins.csproj", "{16798045-AA9A-8111-8D9E-3FC18ED53F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish Flocking", "Fish Flocking.csproj", "{F5A26419-8778-8E23-4544-084196E457EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16798045-AA9A-8111-8D9E-3FC18ED53F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16798045-AA9A-8111-8D9E-3FC18ED53F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16798045-AA9A-8111-8D9E-3FC18ED53F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16798045-AA9A-8111-8D9E-3FC18ED53F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A26419-8778-8E23-4544-084196E457EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A26419-8778-8E23-4544-084196E457EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A26419-8778-8E23-4544-084196E457EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A26419-8778-8E23-4544-084196E457EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

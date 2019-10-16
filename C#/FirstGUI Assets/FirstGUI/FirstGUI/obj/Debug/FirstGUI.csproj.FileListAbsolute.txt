@@ -1,0 +1,18 @@
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\bin\Debug\FirstGUI.exe.config
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\bin\Debug\FirstGUI.exe
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\bin\Debug\FirstGUI.pdb
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\obj\Debug\FirstGUI.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\obj\Debug\FirstGUI.Properties.Resources.resources
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\obj\Debug\FirstGUI.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\obj\Debug\FirstGUI.exe
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\obj\Debug\FirstGUI.pdb
+C:\Users\Roshan\Desktop\FirstGUI\FirstGUI\obj\Debug\FirstGUI.mainForm.resources
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\bin\Debug\FirstGUI.exe.config
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\obj\Debug\FirstGUI.exe
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\obj\Debug\FirstGUI.pdb
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\bin\Debug\FirstGUI.exe
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\bin\Debug\FirstGUI.pdb
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\obj\Debug\FirstGUI.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\obj\Debug\FirstGUI.mainForm.resources
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\obj\Debug\FirstGUI.Properties.Resources.resources
+C:\Users\Roshan\Desktop\FirstGUI Assets\FirstGUI\FirstGUI\obj\Debug\FirstGUI.csproj.GenerateResource.Cache

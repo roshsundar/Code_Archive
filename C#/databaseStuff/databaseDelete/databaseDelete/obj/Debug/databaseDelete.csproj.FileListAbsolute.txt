@@ -1,0 +1,9 @@
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\bin\Debug\databaseDelete.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\bin\Debug\databaseDelete.exe
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\bin\Debug\databaseDelete.pdb
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\obj\Debug\databaseDelete.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\obj\Debug\databaseDelete.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\obj\Debug\databaseDelete.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\obj\Debug\databaseDelete.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\obj\Debug\databaseDelete.exe
+C:\Users\Roshan\Desktop\AllGUIs\databaseStuff\databaseDelete\databaseDelete\obj\Debug\databaseDelete.pdb

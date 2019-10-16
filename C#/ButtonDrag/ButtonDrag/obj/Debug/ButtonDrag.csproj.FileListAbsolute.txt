@@ -1,0 +1,9 @@
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\bin\Debug\ButtonDrag.exe.config
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\bin\Debug\ButtonDrag.exe
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\bin\Debug\ButtonDrag.pdb
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\obj\Debug\ButtonDrag.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\obj\Debug\ButtonDrag.Form1.resources
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\obj\Debug\ButtonDrag.Properties.Resources.resources
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\obj\Debug\ButtonDrag.csproj.GenerateResource.Cache
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\obj\Debug\ButtonDrag.exe
+C:\Users\Roshan\Desktop\AllGUIs\ButtonDrag\ButtonDrag\obj\Debug\ButtonDrag.pdb

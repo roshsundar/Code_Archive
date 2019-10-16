@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465317627 source:c:\users\parvathy\desktop\c programs\putchar_ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

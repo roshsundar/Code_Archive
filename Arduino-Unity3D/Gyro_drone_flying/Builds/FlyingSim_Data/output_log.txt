@@ -1,0 +1,638 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x42)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   8.15.10.2900
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.142 seconds
+Platform assembly: C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Roshan\Desktop\Unity Games\Gyro drone flying\Builds\FlyingSim_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.450821 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2228 -> priority: 1 
+  Thread -> id: 29f0 -> priority: 1 
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
+IOException: Access is denied.
+
+  at System.IO.Ports.WinSerialStream.ReportIOError (System.String optional_arg) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.WinSerialStream.Read (System.Byte[] buffer, Int32 offset, Int32 count) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.read_byte () [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadTo (System.String value) [0x00000] in <filename unknown>:0 
+  at System.IO.Ports.SerialPort.ReadLine () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.Ports.SerialPort:ReadLine ()
+  at DataReader+<AsynchronousReadFromArduino>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+DataReader:Update()
+ 
+(Filename:  Line: -1)
+
